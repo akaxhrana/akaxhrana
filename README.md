@@ -5,8 +5,7 @@
 I'm a Software Engineer who is passionate about **Machine Learning** and developing *intelligent machines* :robot:. 
 
 Some Facts:
-  - Sophomore at National Institute of Technology, Hamirpur 
-  - Mathematics | Python3 | Data Science | Artifical Intelligence
+  - Junior at National Institute of Technology, Hamirpur 
+  - Python3 | Data Science | Artifical Intelligence | Mathematics
   - Code :left_right_arrow: Anime :left_right_arrow: Sleep
   
-Wants to be ***Isekai'ed***

@@ -1,4 +1,4 @@
-## <img src="https://github.com/akaxhrana/akaxhrana/blob/master/1naruto.png" alt="seal" width="75" height="75">  𝙰𝚔𝚊𝚜𝚑 <img src="https://github.com/akaxhrana/akaxhrana/blob/master/head_code.png" alt="head" width="30" height="20"> 𝚁𝚊𝚗𝚊 
+##  𝙰𝚔𝚊𝚜𝚑 <img src="https://github.com/akaxhrana/akaxhrana/blob/master/head_code.png" alt="head" width="30" height="20"> 𝚁𝚊𝚗𝚊 
 
 I'm a Software Engineer and Developer. Artificial Intelligence <-> is a <-> thrilling technology.  
 
